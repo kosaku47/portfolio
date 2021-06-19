@@ -1,0 +1,147 @@
+
+{
+    "helloWorld": "ハローワールド!",
+    "registerUserNameDescription": "⚠️️ ベータ版ではusernameは後から変更できません。",
+        "registerUsernameTitle" : "ユーザーネーム",
+
+    "registerUserIdDescription": "⚠️️ User Idは一度設定すると、後から変更できません。",
+    "registerUserIdTitle" : "ユーザーID",
+    "userNotFound": "ユーザーが見つかりませんでした。",
+    "boardNotFound": "Boardが見つかりませんでした。",
+  "search" : "検索",
+  "saved": "保存済み",
+     "delete": "削除",
+        "boardPageTabNameHome": "ホーム",
+   "boardPageTabNameMember": "メンバー",
+   "boardPageTabNameHome2": "ホーム２",
+   "boardPageTabNameLike": "いいね",
+   "boardPageTabNameComment": "コメント",
+   "settings": "設定",
+   "follow": "フォロー",
+   "unfollow": "フォローを解除",
+   "inviteUsers": "ユーザーを招待する",
+   "addNewClipTitle": "新しいクリップ",
+   "newClipUrl": "新しいクリップのURL",
+  "validateMessageInvalidUrl": "無効なURLです",
+  "makeBoardPageBoardName": "ボート名",
+  "makeBoardPageBoardNameHintText": "新しいボード",
+  "makeBoardPageBoardId": "ボードID",
+  "makeBoardPageManagePosts": "投稿の管理",
+  "makeBoardPageManagePostsDescription": "自分以外投稿できないようにする",
+  "makeBoardPageImageAndThemeColor": "画像とテーマカラー",
+  "makeBoardPageImageAndThemeColorChooseImage": "画像を選択",
+  "makeBoardPageImageAndThemeColorChooseColor": "色を選択",
+  "inviteUser": "ユーザーを招待する",
+  "add": "追加",
+  "remove": "remove",
+
+  "currentlyThereAreNoNotifications": "現在、お知らせはありません。",
+  "refreshingBoardInformation": "ボード情報を更新します",
+  "manageAccount": "アカウントを管理する",
+  "deleteAccount": "アカウントを削除する",
+  "descriptionDeleteAccount": "アカウントを削除すると、ユーザー情報は全て削除され元に戻すことはできません。\nまたフォロー中のボードにはメンバーとしてユーザー名とユーザーIDが表示され続けます。表示させたくない場合は、まず全てのボードのフォローを解除してください。",
+  
+
+  "makeBoardPageBoardDescription": "ボードの説明",
+  "makeBoardPageBoardDescriptionHintText": "お気に入りのInstagram投稿をシェア。",
+
+  "makeBoardPageTitle": "ボードを作成",
+  "close": "閉じる",
+  "create": "作成",
+  "done": "決定",
+  "betaVersionMessageUserProfileCanNotBeChanged": "⚠️ ベータ版ではプロフィール写真は変更できません。",
+  "betaVersionMessageUsernameCanNotBeChanged": "⚠️ ベータ版ではユーザー名は変更できません。",
+
+    "searchPageTabNameBoard": "ボード",
+  "searchPageTabNameUser": "ユーザー",
+
+
+  "userPageFollowingsTabNameBoard": "ボード",
+  "userPageFollowingsTabNameUser": "ユーザー",
+  "userPageTabNameBoard": "参加中のボード",
+  "userPageTabNameSaved": "保存済み",
+  "followings": "フォロー中",
+
+  "termsOfUse": "利用規約",
+  "dataPolicy": "データに関するポリシー",
+  "openSourceLibrary":"オープンソースライブラリ",
+  "logout" :"ログアウト",
+  "next" : "次へ",
+
+  "underMaintenance": "サーバーメンテナンス中です。１５分程度お待ちください。",
+  "shouldUpdate": "新しいVersionが利用可能です。TestFlightよりダウンロードしてください。",
+  "tutorialPageJoinBoard": "興味のあるボードに参加しましょう。",
+  "tutorialPageBoardDescription": "ボードはWebページなどのコンテンツを共有する場です。",
+  "tutorialPageSearchBoard": "ボードを探す",
+  "tutorialPageShareDescription": "シェア機能を使って、他のアプリから簡単にボードに投稿することができます。",
+  "tutorialPageEnableTheShareFunction": "シェア機能を有効にする",
+  "tutorialPageShareMessage": "Pachiraに参加しよう！",
+  "tutorialPageStep1": "手順１ : シェア機能を有効にするボタンを押す。",
+    "tutorialPageStep2": "手順２ : アプリアイコンが並ぶ列をスワイプして'その他'を探す。",
+  "tutorialPageStep3": "手順３ : Editボタンを押し、Pachiraを探す（一番上にない場合は下にスクロールすると見つかります）。プラスボタンをタップし、Doneを押す。",
+  "searchBook": "本を探す",
+  "makeYourBookPortfolio": "ポートフォリオを作成する",
+  "portfolio": "ポートフォリオ",
+  "submit": "作成する",
+  "error": "エラー",
+
+  "description":  "1冊から5冊の本を選び、一連の質問に答えると、あなたにおすすめのブックポートフォリオが提案されます。",
+
+  "sizeOfThePortfolio": "ポートフォリオは1冊以上5冊以下でなければいけません。",
+
+  "zeroToFour": "以下の質問に、0から4で答えてください。質問の答えは、あなたにパーソナライズされた本のポートフォリオの作成に利用されます。",
+
+  "categoryTitle": "以下の各カテゴリーについて、それぞれどのくらい頻繁に読むか答えてください。",
+
+  "computerScience": "コンピューターサイエンス、情報",
+  "philosophy": "哲学および心理学",
+  "religion": "宗教",
+  "socialSciences": "社会科学",
+  "language": "言語",
+  "pureScience": "自然科学および数学",
+  "technology": "技術",
+  "arts": "芸術",
+  "literature": "文学",
+  "history": "歴史および地理",
+
+  "bookCover": "本を選ぶとき、ブックカバーは重要だ。",
+  "similarBooks": "似通った本ばかり読む傾向がある。",
+  "readSameBooksAsOthers": "人気の本を好んで読む。",
+  "wannaTryNewBooks": "読んだことのないような新たな本に挑戦したいと思う。",
+
+  "someOfMyProjects": "Some of My Projects",
+
+  "bookPortfolio": "Book Portfolio（Webアプリ）",
+
+  "sotsuron": "画像解析による北極海氷縁域の海氷密接度の推定",
+  "graduationThesis": "卒業論文",
+
+  "newsShareApp": "ニュース共有アプリ（モバイルアプリ）",
+  "pachira": "友人と一緒にリーディングリストを管理したり、他人のリーディングリストをフォローできるSNS",
+
+  "mainFeatures": "主な機能",
+  "readingList": "\uD83D\uDCF0 リーディングリストの作成やフォロー、また友達をそこへ招待することができます。",
+  "followFriends": "\uD83E\uDD1D 友達をフォローできます",
+  "commentAndLike": "\uD83D\uDD25 他のユーザーが投稿した記事にいいねやコメントができます",
+  "postToReadingList": "✉️ 記事をアプリ内から、もしくはshare extensionを用いてアプリに投稿できます。",
+  "searching": "\uD83D\uDD0E リーディングリストやユーザーを検索できます",
+  "bookmark": "\uD83D\uDD16 記事をブックマークとして保存できます",
+
+  "testing": "現在、TestFlightでβ版のテストを行っています。"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
